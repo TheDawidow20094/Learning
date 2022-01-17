@@ -1,1 +1,1 @@
-Kalkulator-Spalania-Paliwa
+Car consumption calculator 
