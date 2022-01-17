@@ -1,0 +1,15 @@
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.exe
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.deps.json
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.runtimeconfig.json
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.runtimeconfig.dev.json
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.dll
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\SerwisPogodowy.pdb
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.dll
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.pdb
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\obj\Debug\netcoreapp3.1\SerwisPogodowy.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\SerwisPogodowy\SerwisPogodowy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
